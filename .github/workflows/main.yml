@@ -1,4 +1,4 @@
-workflow "New workflow" {
+workflow "New-workflow" {
   on = "push"
   resolves = ["My First Action"]
 }
